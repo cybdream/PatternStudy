@@ -1,7 +1,6 @@
 package com.cybdream.patternstudy.observerpattern;
 
 import java.util.Observable;
-import java.util.Observer;
 
 public class SMSUsersObserver implements java.util.Observer {
 
